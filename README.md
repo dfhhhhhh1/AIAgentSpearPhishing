@@ -24,7 +24,7 @@ This system uses AI agents to handle various tasks involved in spear-phishing ca
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-repo/phishing-campaign-management.git
+git clone https://github.com/your-repo/phishing-campaign-management.git
 ```
 2. Run the backend data loader: Navigate to the backend folder and run the load_data.py script to load the necessary data into your SQLite database:
 ```bash
